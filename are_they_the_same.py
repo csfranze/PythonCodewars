@@ -32,6 +32,7 @@
 
 # a or b are empty or not empty lists.
 
+
 def comp(a1, a2):
     if a1 == None or a2 == None:
         return False
